@@ -1,3 +1,4 @@
 ### Grönsaker
 - Morötter
 - Potatis
+- Palsternacka
